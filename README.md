@@ -7,5 +7,3 @@ app link-https://play.google.com/store/apps/details?id=com.himanshu.ArduinoAutom
 
 
 
-![Circuit Diagram (Wireless Notice Board)](https://user-images.githubusercontent.com/91732706/207903628-3018f0bb-1f91-4667-a2f0-1b2f9edc4bb1.png)
-
